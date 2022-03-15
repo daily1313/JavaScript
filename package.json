@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "this is about my node tutorial",
+  "main": "boolean.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/todayHappyday/JavaScript.git"
+  },
+  "author": "Seungbeomkim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/todayHappyday/JavaScript/issues"
+  },
+  "homepage": "https://github.com/todayHappyday/JavaScript#readme"
+}
